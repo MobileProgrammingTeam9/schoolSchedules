@@ -18,6 +18,7 @@ public class ScheduleActivity extends AppCompatActivity {
     String[] week_4;
     String[] week_5;
 
+    String [] test;
     int[] week_p;
     int[] week_wh;
     int[] time_p;
